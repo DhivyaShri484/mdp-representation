@@ -32,8 +32,7 @@ To develop an environment consisting of a mobile tower as the start and the hous
 * 0 - Otherwise
 
 ## GRAPHICAL REPRESENTATION:
-![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/3a9d63bd-03c5-4830-9f2c-99264cfccb47)
-
+![image](https://github.com/DhivyaShri484/mdp-representation/assets/94505585/02f29aa3-dce7-40cf-8f43-883dbdf6d9fe)
 
 ## PYTHON REPRESENTATION:
 ![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/53afcb85-9c24-4a99-ad39-a03c87da4772)
@@ -41,8 +40,6 @@ To develop an environment consisting of a mobile tower as the start and the hous
 
 ## OUTPUT:
 ![image](https://github.com/Pavan-Gv/mdp-representation/assets/94827772/2294e571-9b0f-4a48-a256-1d7a9cd7dcb0)
-
-
 
 ## RESULT:
 Thus a real world problem is represented as Markov Decision Problem in the following ways successfully: Text Representation, Graphical Representation, Python Representation
