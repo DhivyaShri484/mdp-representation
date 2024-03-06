@@ -103,7 +103,7 @@ P = {
 ```
 
 ## OUTPUT:
-![310416263-428915d0-c2d1-4262-ae46-d6e2c94fb38f](https://github.com/DhivyaShri484/mdp-representation/assets/94505585/030f62b4-0167-4877-80eb-54e9aae201e5)
+![image](https://github.com/DhivyaShri484/mdp-representation/assets/94505585/a12cf2cc-abe3-43b5-9462-65c8596bf77e)
 
 
 ## RESULT:
